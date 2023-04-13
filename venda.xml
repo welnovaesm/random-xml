@@ -1,0 +1,734 @@
+<Carga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Imoveis>
+    <Imovel>
+      <CodigoCliente />
+      <CodigoImovel>SO1731</CodigoImovel>
+      <TipoImovel>Casa</TipoImovel>
+      <SubTipoImovel>Casa Padrão</SubTipoImovel>
+      <CategoriaImovel>Sobrado/Duplex</CategoriaImovel>
+      <Finalidade>Venda</Finalidade>
+      <Cidade>Goiânia</Cidade>
+      <UF>GO</UF>
+      <Bairro>Garavelo</Bairro>
+      <Numero>0</Numero>
+      <Complemento>Q. 56 - A, L. 10/13 Sobrado Nº06</Complemento>
+      <CEP>74354-240</CEP>
+      <PrecoVenda>239.900</PrecoVenda>
+      <PrecoLocacao />
+      <PrecoCondominio />
+      <ValorIPTU />
+      <AreaUtil>100</AreaUtil>
+      <AreaTotal>142</AreaTotal>
+      <QtdDormitorios>3</QtdDormitorios>
+      <QtdSuites>1</QtdSuites>
+      <QtdBanheiros>2</QtdBanheiros>
+      <QtdVagas>1</QtdVagas>
+      <Observacao> Condomínio contendo 9 sobrados geminados com as seguintes divisões internas:
+        Pavimento Superior - 3 quartos, 1 suíte, banheiro social. Pavimento Inferior: Sala de
+        estar/jantar, escada, cozinha, área de serviço, varanda, deposito, área permeável. Fone:
+        (62) 3250-5555 /WhatsApp 62-98503-6870.</Observacao>
+      <TipoOferta>2</TipoOferta>
+      <Fotos>
+        <Foto>
+          <NomeArquivo>mvl1731_1.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_1.jpg</URLArquivo>
+          <Principal>1</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_2.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_2.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_3.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_3.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_4.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_4.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_5.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_5.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_6.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_6.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_7.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_7.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_8.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_8.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_9.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_9.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_10.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_10.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_11.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_11.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+      </Fotos>
+    </Imovel>
+    <Imovel>
+      <CodigoCliente />
+      <CodigoImovel>SO1731</CodigoImovel>
+      <TipoImovel>Sobrado</TipoImovel>
+      <SubTipoImovel>Casa Padrão</SubTipoImovel>
+      <CategoriaImovel>Sobrado/Duplex</CategoriaImovel>
+      <Finalidade>Venda</Finalidade>
+      <Cidade>Goiânia</Cidade>
+      <UF>GO</UF>
+      <Bairro>Garavelo</Bairro>
+      <Numero>0</Numero>
+      <Complemento>Q. 56 - A, L. 10/13 Sobrado Nº06</Complemento>
+      <CEP>74354-240</CEP>
+      <PrecoVenda>239.900</PrecoVenda>
+      <PrecoLocacao />
+      <PrecoCondominio />
+      <ValorIPTU />
+      <AreaUtil>100</AreaUtil>
+      <AreaTotal>142</AreaTotal>
+      <QtdDormitorios>3</QtdDormitorios>
+      <QtdSuites>1</QtdSuites>
+      <QtdBanheiros>2</QtdBanheiros>
+      <QtdVagas>1</QtdVagas>
+      <Observacao> Condomínio contendo 9 sobrados geminados com as seguintes divisões internas:
+        Pavimento Superior - 3 quartos, 1 suíte, banheiro social. Pavimento Inferior: Sala de
+        estar/jantar, escada, cozinha, área de serviço, varanda, deposito, área permeável. Fone:
+        (62) 3250-5555 /WhatsApp 62-98503-6870.</Observacao>
+      <TipoOferta>2</TipoOferta>
+      <Fotos>
+        <Foto>
+          <NomeArquivo>mvl1731_1.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_1.jpg</URLArquivo>
+          <Principal>1</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_2.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_2.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_3.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_3.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_4.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_4.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_5.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_5.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_6.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_6.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_7.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_7.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_8.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_8.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_9.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_9.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_10.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_10.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl1731_11.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl1731_11.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+      </Fotos>
+    </Imovel>
+    <Imovel>
+      <CodigoCliente />
+      <CodigoImovel>CH2955</CodigoImovel>
+      <TipoImovel>Sobrado</TipoImovel>
+      <SubTipoImovel>Casa de Condomínio</SubTipoImovel>
+      <CategoriaImovel>Térrea</CategoriaImovel>
+      <Finalidade>Venda</Finalidade>
+      <Cidade>Aparecida De Goiânia</Cidade>
+      <UF>GO</UF>
+      <Bairro>Cardoso</Bairro>
+      <Numero>0</Numero>
+      <Complemento>Qd. 113 Lt. 14 Sobrado 09</Complemento>
+      <CEP>74933-010</CEP>
+      <PrecoVenda>750.000</PrecoVenda>
+      <PrecoLocacao />
+      <PrecoCondominio>1.200</PrecoCondominio>
+      <ValorIPTU />
+      <AreaUtil>187</AreaUtil>
+      <AreaTotal />
+      <QtdDormitorios>3</QtdDormitorios>
+      <QtdSuites>2</QtdSuites>
+      <QtdBanheiros>4</QtdBanheiros>
+      <QtdVagas>2</QtdVagas>
+      <Observacao> Sobrado - 3quartos sendo 2suítes com armários,banheiro social, sala para 3
+        ambientes e pé direito duplo, lavabo, cozinha americana com armários e balcão em granito,
+        área de serviço e banheiro de serviço, varanda, quintal,2 vagas de garagens e cômodos para
+        deposito. Condomínio Clube, com características ecológicas com muito verde. Área de lazer
+        completa mais bosque com pista, nascente e lago. Excelente para quem busca qualidade de
+        vida, segurança e conforto. (F+)*ATENÇÃO: Imóvel com contrato de exclusividade agende sua
+        visita com um de nossos corretores. Fone: (62) 3250-5555 /WhatsApp (62)98503-6870.</Observacao>
+      <TipoOferta>2</TipoOferta>
+      <Fotos>
+        <Foto>
+          <NomeArquivo>mvl5960_1.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_1.jpg</URLArquivo>
+          <Principal>1</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_2.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_2.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_3.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_3.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_4.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_4.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_5.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_5.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_6.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_6.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_7.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_7.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_8.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_8.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_9.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_9.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_10.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_10.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_11.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_11.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_12.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_12.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_13.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_13.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_14.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_14.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_15.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_15.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_16.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_16.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_17.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_17.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_18.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_18.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5960_19.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5960_19.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+      </Fotos>
+    </Imovel>
+    <Imovel>
+      <CodigoCliente />
+      <CodigoImovel>APV2698</CodigoImovel>
+      <TipoImovel>Apartamento</TipoImovel>
+      <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
+      <Finalidade>Venda</Finalidade>
+      <Cidade>Goiânia</Cidade>
+      <UF>GO</UF>
+      <Bairro>Vila Dos Alpes</Bairro>
+      <Numero>0</Numero>
+      <Complemento>Qd. Hc-1 Lt.21</Complemento>
+      <CEP>74310-220</CEP>
+      <PrecoVenda>445.000</PrecoVenda>
+      <PrecoLocacao />
+      <PrecoCondominio />
+      <ValorIPTU />
+      <AreaUtil>65</AreaUtil>
+      <AreaTotal />
+      <QtdDormitorios>2</QtdDormitorios>
+      <QtdSuites>1</QtdSuites>
+      <QtdBanheiros>2</QtdBanheiros>
+      <QtdVagas>2</QtdVagas>
+      <Observacao> Apartamento com 2 quartossendo 1 suíte,sala 2 ambientes, varanda gourmet,cozinha,
+        área deserviço, 2vagas de garagem, laje técnica. Lazer com piscina adulto e infantil, salão
+        de festas, churrasqueira, playground, espaço mulher, quadra poliesportiva, brinquedoteca,
+        varanda de jogos e academia. Ótima localização, próximo ao Carrefour da T-9. Fone: (62)
+        3250- 5555/WhatsApp (62)98503-6870.</Observacao>
+      <TipoOferta>2</TipoOferta>
+      <Fotos>
+        <Foto>
+          <NomeArquivo>mvl5239_1.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_1.jpg</URLArquivo>
+          <Principal>1</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_2.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_2.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_3.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_3.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_4.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_4.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_5.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_5.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_6.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_6.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_7.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_7.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_8.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_8.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_9.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_9.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_10.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_10.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_11.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_11.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_12.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_12.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_13.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_13.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_14.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_14.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_15.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_15.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_16.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_16.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_17.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_17.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5239_18.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5239_18.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+      </Fotos>
+    </Imovel>
+    <Imovel>
+      <CodigoCliente />
+      <CodigoImovel>APV2699</CodigoImovel>
+      <TipoImovel>Apartamento</TipoImovel>
+      <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
+      <Finalidade>Venda</Finalidade>
+      <Cidade>Goiânia</Cidade>
+      <UF>GO</UF>
+      <Bairro>Vila Dos Alpes</Bairro>
+      <Numero>0</Numero>
+      <Complemento>Qd. Hc -1 Lt 21</Complemento>
+      <CEP>74310-220</CEP>
+      <PrecoVenda>621.000</PrecoVenda>
+      <PrecoLocacao />
+      <PrecoCondominio />
+      <ValorIPTU />
+      <AreaUtil>85</AreaUtil>
+      <AreaTotal>85</AreaTotal>
+      <QtdDormitorios>3</QtdDormitorios>
+      <QtdSuites>1</QtdSuites>
+      <QtdBanheiros>2</QtdBanheiros>
+      <QtdVagas>2</QtdVagas>
+      <Observacao> Excelente Apartamento com 3quartossendo 1 suíte,sala 2 ambientes, varanda
+        gourmet,cozinha, área deserviço, 2vagas de garagem, laje técnica. Lazer completo, com
+        piscina adulto e infantil, salão de festas, churrasqueira, playground, espaço mulher, quadra
+        poliesportiva, brinquedoteca, varanda de jogos e academia. Localizado próximo ao Carrefour
+        da T-9. Ótima localização, e opção de investimento. Fone: (62) 3250-5555/WhatsApp 98503-6870
+        CJ 9394.</Observacao>
+      <TipoOferta>2</TipoOferta>
+      <Fotos>
+        <Foto>
+          <NomeArquivo>mvl5240_1.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_1.jpg</URLArquivo>
+          <Principal>1</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_2.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_2.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_3.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_3.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_4.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_4.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_5.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_5.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_6.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_6.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_7.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_7.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_8.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_8.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_9.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_9.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_10.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_10.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_11.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_11.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_12.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_12.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_13.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_13.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_14.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_14.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_15.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_15.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_16.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_16.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_17.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_17.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5240_18.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5240_18.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+      </Fotos>
+    </Imovel>
+    <Imovel>
+      <CodigoCliente />
+      <CodigoImovel>PD2704</CodigoImovel>
+      <TipoImovel>Comercial/Industrial</TipoImovel>
+      <SubTipoImovel>Prédio Inteiro</SubTipoImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
+      <Finalidade>Venda</Finalidade>
+      <Cidade>Goiânia</Cidade>
+      <UF>GO</UF>
+      <Bairro>Setor Aeroporto</Bairro>
+      <Numero>0</Numero>
+      <Complemento>Qd 67 A Lt 12</Complemento>
+      <CEP>74075-300</CEP>
+      <PrecoVenda>800.000</PrecoVenda>
+      <PrecoLocacao />
+      <PrecoCondominio />
+      <ValorIPTU />
+      <AreaUtil>415</AreaUtil>
+      <AreaTotal>492</AreaTotal>
+      <QtdDormitorios>7</QtdDormitorios>
+      <QtdSuites>1</QtdSuites>
+      <QtdBanheiros>4</QtdBanheiros>
+      <QtdVagas>1</QtdVagas>
+      <Observacao> PrédioComercial contendo 02 pavimentos, sendo03 apartamentos na parte superior e
+        01 galpão na parte inferior. Pavimento superior: Apartamento 01 com 2 quartos, sala,
+        banheiro social, cozinha e área de serviço. Apartamento 02 sala, 3 quartos, cozinha,
+        banheiro social, quarto de despejo e área de serviço. Apartamento 03 hall de entrada, sala
+        de visita, sala de tv, lavabo, 4 quartos sendo um suíte, banheiro social, cozinha e DCE.
+        (FI-)*ATENÇÃO: Imóvel com contrato de exclusividade, agende sua visita com um de nossos
+        corretores e realize seu melhor negocio. Fone: (62) 3250-5555 /WhatsApp (62) 98503-6870.</Observacao>
+      <TipoOferta>2</TipoOferta>
+      <Fotos>
+        <Foto>
+          <NomeArquivo>mvl5250_1.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_1.jpg</URLArquivo>
+          <Principal>1</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_2.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_2.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_3.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_3.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_4.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_4.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_5.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_5.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_6.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_6.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_7.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_7.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_8.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_8.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_9.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_9.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_10.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_10.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_11.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_11.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+        <Foto>
+          <NomeArquivo>mvl5250_12.jpg</NomeArquivo>
+          <URLArquivo>https://www.vesperimoveis.com.br/arq/mvl/mvl5250_12.jpg</URLArquivo>
+          <Principal>0</Principal>
+          <Alterada>1</Alterada>
+        </Foto>
+      </Fotos>
+    </Imovel>
+  </Imoveis>
+</Carga>
