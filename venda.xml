@@ -101,7 +101,7 @@
     <Imovel>
       <CodigoCliente />
       <CodigoImovel>SO1731</CodigoImovel>
-      <TipoImovel>Comercial</TipoImovel>
+      <TipoImovel>Sobrado</TipoImovel>
       <SubTipoImovel>Sobrado</SubTipoImovel>
       <CategoriaImovel>Sobrado/Duplex</CategoriaImovel>
       <Finalidade>Venda</Finalidade>
