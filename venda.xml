@@ -5,7 +5,7 @@
       <CodigoCliente />
       <CodigoImovel>SO1731</CodigoImovel>
       <TipoImovel>Sobrado</TipoImovel>
-      <SubTipoImovel>Sobrado</SubTipoImovel>
+      <SubTipoImovel>Casa Padrão</SubTipoImovel>
       <CategoriaImovel>Sobrado/Duplex</CategoriaImovel>
       <Finalidade>Venda</Finalidade>
       <Cidade>Goiânia</Cidade>
@@ -102,7 +102,7 @@
       <CodigoCliente />
       <CodigoImovel>SO1731</CodigoImovel>
       <TipoImovel>Sobrado</TipoImovel>
-      <SubTipoImovel>Sobrado</SubTipoImovel>
+      <SubTipoImovel>Casa Padrão</SubTipoImovel>
       <CategoriaImovel>Sobrado/Duplex</CategoriaImovel>
       <Finalidade>Venda</Finalidade>
       <Cidade>Goiânia</Cidade>
